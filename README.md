@@ -2,9 +2,6 @@
 VirtualBank is a quick tool for managing pretend money for board games, video games, or other purposes.
 ![VirtualBank Logo](https://v0lttech.com/assets/img/virtualbanklogo.png)
 
-## License
-Licensed under the V0LT Source Code License: https://v0lttech.com/files/documents/licenses/VoltSourceCodeLicense.pdf
-
 ## Binaries
 A complied version can be downloaded at https://v0lttech.com/virtualbank.php
 
